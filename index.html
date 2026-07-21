@@ -55,14 +55,53 @@ function mostrar(area){
  document.getElementById("tituloArea").textContent=area;
  const cont=document.getElementById("listaActividades");
  cont.innerHTML="";
- (mapa[area]||[]).forEach(a=>{
+const iconos = {
+  "Apoyo Escolar":"fa-book-open",
+  "Banda":"fa-music",
+  "Teatro":"fa-masks-theater",
+  "Danza":"fa-person-dancing",
+  "Coro":"fa-microphone",
+  "Escuela de Rock":"fa-guitar",
+  "Club de títeres":"fa-puppet", // si no aparece usa fa-masks-theater
+  "Defensa personal":"fa-hand-fist",
+  "Club Futsal Varones":"fa-futbol",
+  "Club Futsal Mujeres":"fa-futbol",
+  "Club Básquet Varones":"fa-basketball",
+  "Club Básquet Mujeres":"fa-basketball",
+  "Club Voley Varones":"fa-volleyball",
+  "Club Voley Mujeres":"fa-volleyball",
+  "CBA":"fa-language",
+  "Nivelación de ingles":"fa-book",
+  "Speak Up":"fa-comments",
+  "Lego Serius Play":"fa-cubes",
+  "Juegos de mesa":"fa-dice",
+  "Ajedrez":"fa-chess-knight",
+  "Robótica":"fa-robot",
+  "Podcast":"fa-podcast",
+  "Programación":"fa-laptop-code"
+};
+
+(mapa[area]||[]).forEach(a=>{
+
    const card=document.createElement("a");
    card.href="#";
    card.className="card";
-   card.innerHTML="<h3>"+a+"</h3><p>Ver más...</p>";
-   card.onclick=(e)=>{e.preventDefault();abrirFicha(a);}
+
+   const icono = iconos[a] || "fa-circle";
+
+   card.innerHTML=
+      `<i class="fa-solid ${icono}" style="font-size:40px;margin-bottom:15px;"></i>
+       <h3>${a}</h3>
+       <p>Ver más...</p>`;
+
+   card.onclick=(e)=>{
+      e.preventDefault();
+      abrirFicha(a);
+   };
+
    cont.appendChild(card);
- });
+
+});
 }
 function volverAreas(){
  document.querySelector(".areas").style.display="grid";
