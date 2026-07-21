@@ -5,8 +5,8 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Banda",
     "docente": "Giovanni Almaraz",
-    "grupo": "B2 - B3",
-    "lugar": "Patio",
+    "grupo": "B2 (6to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
+    "lugar": "Patio Primaria",
     "horarios": [
 {
             "dia": "Lunes",
@@ -46,7 +46,7 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Teatro",
     "docente": "Alejandro Marañón",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 211",
     "horarios": [
 {
@@ -77,7 +77,7 @@ const actividades = [
     "areaNombre": "Tecnologia",
     "nombre": "Robótica",
     "docente": "Alejandro Orozco",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Laboratorio Comp",
     "horarios": [
 {
@@ -118,7 +118,7 @@ const actividades = [
     "areaNombre": "Tecnologia",
     "nombre": "Podcast",
     "docente": "Rodrigo Machicado",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula Chroma",
     "horarios": [
 {
@@ -169,7 +169,7 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Danza",
     "docente": "Jimena Velasquez",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 211",
     "horarios": [
 {
@@ -200,7 +200,7 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Coro",
     "docente": "Lenis Chiri",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 200",
     "horarios": [
 {
@@ -221,7 +221,7 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Escuela de Rock",
     "docente": "Ismael Calderón",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 300",
     "horarios": [
 {
@@ -272,7 +272,7 @@ const actividades = [
     "areaNombre": "Idiomas",
     "nombre": "CBA",
     "docente": "CBA",
-    "grupo": "B2",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aula 102",
     "horarios": [
 {
@@ -298,7 +298,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Futsal Varones",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 1",
     "horarios": [
 {
@@ -333,7 +333,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Futsal Mujeres",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 1",
     "horarios": [
 {
@@ -368,7 +368,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Básquet Varones",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 2",
     "horarios": [
 {
@@ -403,7 +403,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Básquet Mujeres",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 2",
     "horarios": [
 {
@@ -438,7 +438,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Voley Varones",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 3",
     "horarios": [
 {
@@ -473,7 +473,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Club Voley Mujeres",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 3",
     "horarios": [
 {
@@ -508,7 +508,7 @@ const actividades = [
     "areaNombre": "Otros",
     "nombre": "Lego Serius Play",
     "docente": "",
-    "grupo": "B2",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aua 107",
     "horarios": [
 {
@@ -539,7 +539,7 @@ const actividades = [
     "areaNombre": "Arte",
     "nombre": "Club de títeres",
     "docente": "José Reyes",
-    "grupo": "B1",
+    "grupo": "B1 (1ro a 4to de Primaria)",
     "lugar": "Aua 107",
     "horarios": [
 {
@@ -570,7 +570,7 @@ const actividades = [
     "areaNombre": "Tecnologia",
     "nombre": "Programación",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Laboratorio Comp",
     "horarios": [
 {
@@ -601,7 +601,7 @@ const actividades = [
     "areaNombre": "Deporte",
     "nombre": "Defensa personal",
     "docente": "",
-    "grupo": "B1 - B2",
+    "grupo": "B1 (1ro a 4to de Primaria) - B2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "",
     "horarios": [
 {
@@ -632,7 +632,7 @@ const actividades = [
     "areaNombre": "Estrategia",
     "nombre": "Juegos de mesa",
     "docente": "Meeples",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 106",
     "horarios": [
 {
@@ -663,7 +663,7 @@ const actividades = [
     "areaNombre": "Estrategia",
     "nombre": "Ajedrez",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 209",
     "horarios": [
 {
@@ -704,7 +704,7 @@ const actividades = [
     "areaNombre": "Otros",
     "nombre": "Nivelación de ingles",
     "docente": "Jerson Velasco",
-    "grupo": "B2",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aula 201",
     "horarios": [
 {
@@ -735,7 +735,7 @@ const actividades = [
     "areaNombre": "Idiomas",
     "nombre": "Speak Up",
     "docente": "Jerson Velasco",
-    "grupo": "B3",
+    "grupo": "B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 201",
     "horarios": [
 {
@@ -766,7 +766,7 @@ const actividades = [
     "areaNombre": "Academico",
     "nombre": "Apoyo Escolar",
     "docente": "",
-    "grupo": "B2 - B3",
+    "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 209",
     "horarios": [
 {
