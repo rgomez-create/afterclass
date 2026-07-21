@@ -1,0 +1,114 @@
+{
+  "version": "2.0",
+  "descripcion": "Información descriptiva de las actividades. datos.js contiene horarios, grupos, docentes y lugares.",
+  "actividades": [
+    {
+      "id": "club_basquet_varones",
+      "nombre": "CLUB BÁSQUET VARONES",
+      "presentacion": "Espacio destinado al desarrollo de habilidades deportivas, trabajo en equipo y hábitos saludables mediante la práctica del básquetbol.",
+      "observaciones": "Abierto para estudiantes inscritos en After Class."
+    },
+    {
+      "id": "club_basquet_mujeres",
+      "nombre": "CLUB BÁSQUET MUJERES",
+      "presentacion": "Espacio destinado al desarrollo de habilidades deportivas, trabajo en equipo y hábitos saludables mediante la práctica del básquetbol.",
+      "observaciones": "Abierto para estudiantes inscritos en After Class."
+    },
+    {
+      "id": "robotica",
+      "nombre": "ROBÓTICA",
+      "presentacion": "Actividad orientada al desarrollo del pensamiento lógico, creatividad y resolución de problemas mediante proyectos tecnológicos.",
+      "observaciones": "Los horarios se obtienen desde datos.js."
+    },
+    {
+      "id": "programacion",
+      "nombre": "PROGRAMACIÓN",
+      "presentacion": "Introducción al pensamiento computacional y desarrollo de aplicaciones mediante actividades prácticas.",
+      "observaciones": "Los horarios se obtienen desde datos.js."
+    },
+    {
+      "id": "apoyo_escolar",
+      "nombre": "APOYO ESCOLAR",
+      "presentacion": "Espacio de acompañamiento académico para reforzar contenidos, técnicas de estudio y autonomía del estudiante.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "banda",
+      "nombre": "BANDA",
+      "presentacion": "Desarrollo de habilidades musicales mediante la interpretación instrumental, disciplina y trabajo en equipo.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "teatro",
+      "nombre": "TEATRO",
+      "presentacion": "Fortalece la expresión corporal, creatividad, comunicación y confianza escénica.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "podcast",
+      "nombre": "PODCAST",
+      "presentacion": "Creación de contenidos de audio, expresión oral y producción digital.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "danza",
+      "nombre": "DANZA",
+      "presentacion": "Promueve la expresión artística, coordinación y trabajo colaborativo.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "coro",
+      "nombre": "CORO",
+      "presentacion": "Desarrollo de la técnica vocal, afinación y trabajo grupal.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "escuela_de_rock",
+      "nombre": "ESCUELA DE ROCK",
+      "presentacion": "Aprendizaje musical orientado a la interpretación de repertorio moderno.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "club_titeres",
+      "nombre": "CLUB DE TÍTERES",
+      "presentacion": "Estimula la creatividad, narrativa y expresión artística mediante títeres.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "cba",
+      "nombre": "CBA",
+      "presentacion": "Fortalecimiento del idioma inglés con enfoque comunicativo.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "speak_up",
+      "nombre": "SPEAK UP",
+      "presentacion": "Espacio para desarrollar la fluidez y confianza al hablar inglés.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "lego_serious_play",
+      "nombre": "LEGO SERIOUS PLAY",
+      "presentacion": "Metodología para potenciar creatividad, resolución de problemas y trabajo en equipo.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "juegos_de_mesa",
+      "nombre": "JUEGOS DE MESA",
+      "presentacion": "Desarrolla estrategia, razonamiento y habilidades sociales.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "ajedrez",
+      "nombre": "AJEDREZ",
+      "presentacion": "Favorece la concentración, planificación y pensamiento estratégico.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    },
+    {
+      "id": "defensa_personal",
+      "nombre": "DEFENSA PERSONAL",
+      "presentacion": "Promueve disciplina, autocuidado y condición física.",
+      "observaciones": "La información de docente, grupo, lugar y horarios se obtiene desde datos.js."
+    }
+  ]
+}

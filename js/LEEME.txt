@@ -1,0 +1,26 @@
+USO PROPUESTO
+
+datos.js
+---------
+Mantiene:
+- docente
+- grupo
+- lugar
+- día
+- horario
+
+fichas.json
+-----------
+Añade:
+- nombre
+- presentación
+- observaciones
+
+La ficha mostrará:
+
+Nombre
+Docente (datos.js)
+Lugar (datos.js)
+Grupo (datos.js)
+Horario visual (datos.js)
+Presentación (fichas.json)
