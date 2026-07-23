@@ -9,7 +9,7 @@ body{
 ======================*/
 
 .hero{
-    height:220px;
+    height:230px;
     background:
     linear-gradient(rgba(22,61,34,.88),rgba(22,61,34,.88)),
     url('../img/hero-afterclass.png') center/cover;
