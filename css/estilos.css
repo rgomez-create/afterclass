@@ -1,5 +1,5 @@
 body{margin:0;font-family:Segoe UI;background:#f5f2e8}
-.hero{height:360px;background:linear-gradient(rgba(22,61,34,.86),rgba(22,61,34,.86)),url('../img/hero-afterclass.png') center/cover}
+.hero{height:260px;background:linear-gradient(rgba(22,61,34,.86),rgba(22,61,34,.86)),url('../img/hero-afterclass.png') center/cover}
 .top{display:flex;justify-content:space-between;align-items:center;padding:20px;color:#d7b96a}
 .logo{height:140px}.logos{display:flex;gap:20px;align-items:center}.logos img{height:100px}
 .placeholder{width:90px;height:90px;border:2px dashed #d7b96a;border-radius:50%;display:flex;align-items:center;justify-content:center}
