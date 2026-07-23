@@ -297,7 +297,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Futsal Varones",
-    "docente": "",
+    "docente": "Albert Jefferson Bautista Escalera",
     "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 1",
     "horarios": [
@@ -332,7 +332,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Futsal Mujeres",
-    "docente": "",
+    "docente": "Albert Jefferson Bautista Escalera",
     "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 1",
     "horarios": [
@@ -367,7 +367,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Básquet Varones",
-    "docente": "",
+    "docente": "Cristhian Antonio García Vargas",
     "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 2",
     "horarios": [
@@ -402,7 +402,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Básquet Mujeres",
-    "docente": "",
+    "docente": "Cristhian Antonio García Vargas",
     "grupo": "B2 (5to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 2",
     "horarios": [
