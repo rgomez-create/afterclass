@@ -227,41 +227,49 @@ const actividades = [
 {
             "dia": "Lunes",
             "periodo": 1,
+            "grupo": "BLOQUE 2",
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Miércoles",
             "periodo": 1,
+            "grupo": "BLOQUE 2",
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Lunes",
             "periodo": 2,
+            "grupo": "BLOQUE 2",
             "hora": "de 16:45 a 17:45"
         },
 {
             "dia": "Miércoles",
             "periodo": 2,
+            "grupo": "BLOQUE 2",
             "hora": "de 16:45 a 17:45"
         },
 {
             "dia": "Martes",
             "periodo": 1,
+            "grupo": "BLOQUE 3",
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Jueves",
             "periodo": 1,
+            "grupo": "BLOQUE 3",
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Martes",
             "periodo": 2,
+            "grupo": "BLOQUE 3",
             "hora": "de 16:45 a 17:45"
         },
 {
             "dia": "Jueves",
             "periodo": 2,
+            "grupo": "BLOQUE 3",
             "hora": "de 16:45 a 17:45"
         }
         ]
