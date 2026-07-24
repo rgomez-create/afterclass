@@ -6,7 +6,7 @@ const actividades = [
     "nombre": "Banda",
     "docente": "Giovanni Almaraz",
     "grupo": "B2 (6to de Primaria a 2do de Secundaria) - B3 (3ro a 6to de Secundaria)",
-    "lugar": "Patio Primaria",
+    "lugar": "Patio Primaria - Viernes Cancha 1",
     "horarios": [
 {
             "dia": "Lunes",
