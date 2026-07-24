@@ -17,7 +17,7 @@ body::before{
     inset:0;
     background:url("../img/logo-vamos-mil.png") center center no-repeat;
     background-size:520px;
-    opacity:.05;
+    opacity:.15;
     pointer-events:none;
     z-index:-1;
 }
