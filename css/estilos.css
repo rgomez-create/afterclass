@@ -16,13 +16,27 @@ body{
 }
 
 .top{
-    display:flex;
-    justify-content:space-between;
+    display:grid;
+    grid-template-columns:180px 1fr 280px;
     align-items:center;
     padding:12px 30px;
-    color:#d7b96a;
 }
 
+.logo{
+    justify-self:start;
+}
+
+.title{
+    justify-self:center;
+    text-align:center;
+}
+
+.logos{
+    justify-self:end;
+    display:flex;
+    gap:15px;
+    align-items:center;
+}
 .logo{
     height:95px;
 }
@@ -229,6 +243,22 @@ footer{
 
 .card{
     width:auto;
+}
+
+body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+
+    background:url("../img/logo-vamos-mil.png") center center no-repeat;
+
+    background-size:550px;
+
+    opacity:.05;
+
+    pointer-events:none;
+
+    z-index:-1;
 }
 
 }
