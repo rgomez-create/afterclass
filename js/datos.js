@@ -608,7 +608,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Defensa personal",
-    "docente": "",
+    "docente": "Melizza Fuentes Vera",
     "grupo": "BLOQUE 1 (1ro a 4to de Primaria) - BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "",
     "horarios": [
