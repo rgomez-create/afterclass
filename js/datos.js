@@ -778,7 +778,7 @@ const actividades = [
     "areaNombre": "Academico",
     "nombre": "Apoyo Escolar",
     "docente": "",
-    "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
+    "grupo": "BLOQUE 1 (1ro a 4to de Primaria) - BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aula 209",
     "horarios": [
 {
