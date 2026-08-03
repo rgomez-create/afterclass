@@ -198,7 +198,7 @@ const actividades = [
     "id": 6,
     "area": "arte",
     "areaNombre": "Arte",
-    "nombre": "Coro",
+    "nombre": "Coro Vox Ignatius",
     "docente": "Lenis Chiri",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
     "lugar": "Aula 200",
