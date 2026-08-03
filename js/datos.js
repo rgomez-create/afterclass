@@ -577,7 +577,7 @@ const actividades = [
     "area": "tecnologia",
     "areaNombre": "Tecnologia",
     "nombre": "Programación",
-    "docente": "",
+    "docente": "Alex Capusiri",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
     "lugar": "Laboratorio Comp",
     "horarios": [
