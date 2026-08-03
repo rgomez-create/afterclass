@@ -784,21 +784,25 @@ const actividades = [
 {
             "dia": "Lunes",
             "periodo": 1,
+            "bloque": 1,
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Martes",
             "periodo": 1,
+            "bloque": 2,
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Miércoles",
             "periodo": 1,
+            "bloque": 1,
             "hora": "de 15:45 a 16:45"
         },
 {
             "dia": "Jueves",
             "periodo": 1,
+            "bloque": 2,
             "hora": "de 15:45 a 16:45"
         },
 {
@@ -819,6 +823,7 @@ const actividades = [
 {
             "dia": "Jueves",
             "periodo": 2,
+            "bloque": 2,
             "hora": "de 16:45 a 17:45"
         }
         ]
