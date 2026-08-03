@@ -514,7 +514,7 @@ const actividades = [
     "id": 15,
     "area": "otros",
     "areaNombre": "Otros",
-    "nombre": "Lego Serius Play",
+    "nombre": "Lego Serius Play - Ludoteca",
     "docente": "",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aua 107",
