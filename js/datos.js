@@ -610,7 +610,7 @@ const actividades = [
     "nombre": "Defensa personal",
     "docente": "Melizza Fuentes Vera",
     "grupo": "BLOQUE 1 (1ro a 4to de Primaria) - BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
-    "lugar": "",
+    "lugar": "108",
     "horarios": [
 {
             "dia": "Martes",
