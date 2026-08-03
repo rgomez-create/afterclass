@@ -50,12 +50,12 @@ const actividades = [
     "lugar": "Aula 211",
     "horarios": [
 {
-            "dia": "Lunes",
+            "dia": "Martes",
             "periodo": 1,
             "hora": "de 15:45 a 16:45"
         },
 {
-            "dia": "Lunes",
+            "dia": "Martes",
             "periodo": 2,
             "hora": "de 16:45 a 17:45"
         },
