@@ -48,23 +48,23 @@ const fichas = {
     presentacion:"Espacio deportivo para fortalecer la técnica, el trabajo en equipo, la disciplina y el desarrollo físico a través del futsal."
   },
 
-  "Club Básquet Varones":{
+  "Club Baloncesto Varones":{
     presentacion:"Desarrolla fundamentos del baloncesto, estrategias de juego, coordinación y trabajo colaborativo en un ambiente deportivo."
   },
 
-  "Club Básquet Mujeres":{
+  "Club Baloncesto Mujeres":{
     presentacion:"Fortalece habilidades técnicas y tácticas del baloncesto promoviendo el compañerismo, el esfuerzo y la vida saludable."
   },
 
-  "Club Voley Varones":{
+  "Club Voleibol Varones":{
     presentacion:"Aprende y perfecciona los fundamentos del voleibol fortaleciendo la coordinación, el trabajo en equipo y la disciplina deportiva."
   },
 
-  "Club Voley Mujeres":{
+  "Club Voleibol Mujeres":{
     presentacion:"Espacio para desarrollar habilidades técnicas del voleibol, promoviendo la cooperación, el respeto y la actividad física."
   },
 
-  "Lego Serius Play":{
+  "Lego Serius Play - Ludoteca":{
     presentacion:"Desarrolla la creatividad, resolución de problemas y pensamiento crítico mediante dinámicas de construcción con piezas LEGO."
   },
 
