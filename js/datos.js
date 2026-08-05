@@ -445,7 +445,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Voleibol Varones",
-    "docente": "",
+    "docente": "Mayra Orellana Romero",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 3",
     "horarios": [
@@ -480,7 +480,7 @@ const actividades = [
     "area": "deporte",
     "areaNombre": "Deporte",
     "nombre": "Club Voleibol Mujeres",
-    "docente": "",
+    "docente": "Mayra Orellana Romero",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
     "lugar": "Cancha 3",
     "horarios": [
@@ -515,7 +515,7 @@ const actividades = [
     "area": "otros",
     "areaNombre": "Otros",
     "nombre": "Lego Serius Play - Ludoteca",
-    "docente": "",
+    "docente": "Marisol Ticona Medrano",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aua 107",
     "horarios": [
@@ -577,7 +577,7 @@ const actividades = [
     "area": "tecnologia",
     "areaNombre": "Tecnologia",
     "nombre": "Programación",
-    "docente": "Alex Capusiri",
+    "docente": "Alex Ronald Capussiri Huarayo",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
     "lugar": "Laboratorio Comp",
     "horarios": [
