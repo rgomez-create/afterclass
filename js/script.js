@@ -28,7 +28,7 @@ const fichas = {
     presentacion:"Explora diferentes estilos de danza fortaleciendo la coordinación, expresión corporal, ritmo y trabajo en equipo."
   },
 
-  "Coro":{
+  "Coro Vox Ignatius":{
     presentacion:"Desarrolla la técnica vocal, afinación y expresión artística participando en un ensamble coral y presentaciones musicales."
   },
 
