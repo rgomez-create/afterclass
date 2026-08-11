@@ -684,7 +684,7 @@ const actividades = [
     "nombre": "Ajedrez",
     "docente": "CIBA",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
-    "lugar": "Aula 209",
+    "lugar": "Aula 108",
     "horarios": [
 {
             "dia": "Lunes",
@@ -791,7 +791,7 @@ const actividades = [
     "area": "academico",
     "areaNombre": "Academico",
     "nombre": "Apoyo Escolar",
-    "docente": "",
+    "docente": "Jhovana Herrera Choque & María Elena Caero",
     "grupo": "BLOQUE 1 (1ro a 4to de Primaria) - BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aula 209",
     "horarios": [
