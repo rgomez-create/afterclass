@@ -840,7 +840,54 @@ const actividades = [
             "hora": "de 16:45 a 17:45"
         }
         ]
-}
+},
+    {
+    "id": 24,
+    "area": "idiomas",
+    "areaNombre": "Idiomas",
+    "nombre": "Natural English",
+    "docente": "Natural English",
+    "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria) - BLOQUE 3 (3ro a 6to de Secundaria)",
+    "lugar": "Por definir",
+    "horarios": [
+        {
+            "dia": "Lunes",
+            "periodo": 1,
+            "grupo": "BLOQUE 2",
+            "hora": "de 15:45 a 16:45"
+        },
+        {
+            "dia": "Martes",
+            "periodo": 1,
+            "grupo": "BLOQUE 2",
+            "hora": "de 15:45 a 16:45"
+        },
+        {
+            "dia": "Miércoles",
+            "periodo": 1,
+            "grupo": "BLOQUE 2",
+            "hora": "de 15:45 a 16:45"
+        },
+        {
+            "dia": "Lunes",
+            "periodo": 2,
+            "grupo": "BLOQUE 3",
+            "hora": "de 16:45 a 17:45"
+        },
+        {
+            "dia": "Martes",
+            "periodo": 2,
+            "grupo": "BLOQUE 3",
+            "hora": "de 16:45 a 17:45"
+        },
+        {
+            "dia": "Miércoles",
+            "periodo": 2,
+            "grupo": "BLOQUE 3",
+            "hora": "de 16:45 a 17:45"
+        }
+    ]
+},
 ];
 
 window.actividades=actividades;
