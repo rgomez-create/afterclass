@@ -522,7 +522,7 @@ const actividades = [
     "id": 15,
     "area": "otros",
     "areaNombre": "Otros",
-    "nombre": "Lego Serius Play - Ludoteca",
+    "nombre": "Lego Serious Play - Ludoteca",
     "docente": "Marisol Ticona Medrano",
     "grupo": "BLOQUE 2 (5to de Primaria a 2do de Secundaria)",
     "lugar": "Aua 107",
