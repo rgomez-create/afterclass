@@ -66,7 +66,7 @@ const fichas = {
     presentacion:"Espacio para desarrollar habilidades técnicas del voleibol, promoviendo la cooperación, el respeto y la actividad física."
   },
 
-  "Lego Serius Play - Ludoteca":{
+  "Lego Serious Play - Ludoteca":{
     presentacion:"Desarrolla la creatividad, resolución de problemas y pensamiento crítico mediante dinámicas de construcción con piezas LEGO."
   },
 
