@@ -39,12 +39,14 @@ const fichas = {
   "CBA":{
     presentacion:"Programa de fortalecimiento del idioma inglés que desarrolla las habilidades de comprensión, conversación, lectura y escritura."
   },
-
+   "Natural English":{
+      presentacion:"Programa orientado al desarrollo de las habilidades comunicativas en inglés mediante actividades prácticas, dinámicas y situaciones de comunicación cotidiana."
+   },
   "Club Futsal Varones":{
     presentacion:"Entrenamiento orientado al desarrollo de habilidades técnicas, tácticas y valores deportivos mediante la práctica del futsal."
   },
 
-  "Club Futsal Mujeres":{
+  "Club Futsal Damas":{
     presentacion:"Espacio deportivo para fortalecer la técnica, el trabajo en equipo, la disciplina y el desarrollo físico a través del futsal."
   },
 
@@ -52,7 +54,7 @@ const fichas = {
     presentacion:"Desarrolla fundamentos del baloncesto, estrategias de juego, coordinación y trabajo colaborativo en un ambiente deportivo."
   },
 
-  "Club Baloncesto Mujeres":{
+  "Club Baloncesto Damas":{
     presentacion:"Fortalece habilidades técnicas y tácticas del baloncesto promoviendo el compañerismo, el esfuerzo y la vida saludable."
   },
 
@@ -60,7 +62,7 @@ const fichas = {
     presentacion:"Aprende y perfecciona los fundamentos del voleibol fortaleciendo la coordinación, el trabajo en equipo y la disciplina deportiva."
   },
 
-  "Club Voleibol Mujeres":{
+  "Club Voleibol Damas":{
     presentacion:"Espacio para desarrollar habilidades técnicas del voleibol, promoviendo la cooperación, el respeto y la actividad física."
   },
 
@@ -132,15 +134,14 @@ function construirHorario(act){
 
         dias.forEach(d=>{
 
-            const existe=act.horarios.some(h=>h.dia===d && h.periodo===p);
+            const horario = act.horarios.find(
+                h => h.dia === d && h.periodo === p
+            );
 
-            const esClub = act.area === "deporte";
-
-            if(esClub){
-                const horario = act.horarios.find(h=>h.dia===d && h.periodo===p);
-                html += `<td>${horario ? (horario.grupo || "✔") : ""}</td>`;
+            if(horario){
+                html += `<td>${horario.grupo || "✔"}</td>`;
             }else{
-                html += `<td>${existe ? "✔" : ""}</td>`;
+                html += `<td></td>`;
             }
 
         });
